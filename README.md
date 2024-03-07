@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Happy Coding!</h2>
+<h2>Happy Coding!!! 🫠🫠🫠 </h2>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongjangoon&layout=compact&theme=buefy"><br/><br/>
 
