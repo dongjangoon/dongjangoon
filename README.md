@@ -8,7 +8,7 @@
 
 ### 🎯 **What I Do**
 - **Design & operate** multi-cluster Kubernetes infrastructures
-- **Implement** comprehensive observability with Prometheus, Grafana, OpenTelemetry
+- **Implement** comprehensive observability with Monitoring, Logging and Tracing
 - **Build** MLOps pipelines and AI/ML infrastructure on cloud-native platforms
 - **Write** about production experiences at [**dongjangoon.github.io**](https://dongjangoon.github.io) **with AI**, especially claude-code
 
