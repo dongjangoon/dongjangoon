@@ -60,7 +60,6 @@ interests:
   - Production observability patterns
   - Zero-trust security implementation
   - AI/ML infrastructure optimization
-learning: "Advanced Istio service mesh & cost optimization strategies"
 
 ---
 📝 Knowledge Sharing
